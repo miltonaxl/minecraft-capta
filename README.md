@@ -24,7 +24,7 @@ Aplicación web que visualiza y gestiona un árbol de habilidades inspirado en M
 Requisitos: Node.js 18+ y npm. Instala dependencias con `npm ci` o `npm install`.
 
 ## Ejecución local
-1. `npm ci`
+1. `npm i`
 2. `npm run start`
 3. Abre el enlace que muestra Vite (por defecto http://localhost:5173).
 
